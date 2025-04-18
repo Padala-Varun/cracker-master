@@ -1,4 +1,3 @@
-
 # Cracker
 
 **Cracker** is a desktop application built using **Python** and **Tkinter** that allows users to extract slide-like frames from YouTube videos. It enables key frame detection based on a configurable frame interval and similarity threshold, then compiles the extracted frames into a downloadable PDF.
@@ -17,7 +16,7 @@
 ## 📁 Project Structure
 
 ```
-nishant-tiwari24-cracker/
+cracker-master/
 ├── ReadMe.md
 ├── LICENSE
 ├── main.py                 # Entry point (GUI logic)
