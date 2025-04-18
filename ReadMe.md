@@ -52,7 +52,7 @@ Make sure `tkinter` is installed (it is included with most Python distributions,
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/nishant-tiwari24/cracker.git
+   git clone https://github.com/Padala-Varun/cracker-master.git
    cd cracker
    ```
 
